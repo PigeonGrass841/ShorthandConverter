@@ -1,8 +1,30 @@
 h1 {
   color: green;
   text-align: center;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 p {
-  margin: 20px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+body {
+  background-color: seashell;
+  text-align: center;
+}
+
+#title {
+  background-color: snow;
+  border: solid 3px black;
+  padding: 10px;
+  width: 250px;
+}
+
+#info {
+  background-color: aliceblue;
+  border: solid 3px azure;
+  padding: 10px;
+  width: 425px;
 }
